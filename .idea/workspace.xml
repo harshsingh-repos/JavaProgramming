@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a14991fd-6505-4aa2-bf47-e322eebd25c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgramming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AverageNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Casting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScannerString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SessionOne.java" afterDir="false" />
+    <list default="true" id="a14991fd-6505-4aa2-bf47-e322eebd25c4" name="Changes" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="a699f867-4c78-434c-beb5-e581eaf5ce48" />
   </component>
   <component name="ProjectId" id="2wT2mAwNTx2QgZlEVIihb9cKbm1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -105,6 +98,14 @@
       <option name="presentableId" value="Default" />
       <updated>1746051399629</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1746109637169</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746109637169</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +124,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
