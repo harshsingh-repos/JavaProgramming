@@ -1,3 +1,5 @@
+package SessionOne;
+
 import java.util.Scanner;
 
 public class AverageNumbers {
