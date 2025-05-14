@@ -1,0 +1,14 @@
+ primitive data types : int, char, boolean, byte, double, float, etc..
+ defined in the System class (built in) , can not be declared as null
+ they have a defined length and you can use them without defining there size.
+
+ methods -> datatypes -> defined by scope
+
+ non-primitive data types -> user-defined data types eg String, Array, Class, Objects etc..
+ they can be null, do not have a fixed length, you do not need to provide the length
+
+ Wrapper classes ->  Integer, Character , Boolean, Byte ---> StringBuilder
+
+Scope -> local , global
+local - is inside a code logic
+global defined in the class as a class member
