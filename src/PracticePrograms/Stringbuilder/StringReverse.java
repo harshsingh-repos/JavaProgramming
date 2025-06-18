@@ -2,7 +2,7 @@ package PracticePrograms.Stringbuilder;
 
 public class StringReverse {
     public static void main(String[] args) {
-        String orignalStr = "Harshpreet";
+        String orignalStr = "Harshpreet Singh";
 
         StringBuilder sb = new StringBuilder(orignalStr);
         sb.reverse();

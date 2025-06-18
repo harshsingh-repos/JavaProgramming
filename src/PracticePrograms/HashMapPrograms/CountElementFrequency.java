@@ -15,7 +15,7 @@ public class CountElementFrequency {
                 elementCount.put(ele, 1);
             }
         }
-        System.out.println("Ptinr Element Count in Array");
+        System.out.println("Print Element Count in Array");
         for(Map.Entry<Integer, Integer> entry : elementCount.entrySet()){
             System.out.println(entry.getKey() + " count is: " + entry.getValue() );
         }

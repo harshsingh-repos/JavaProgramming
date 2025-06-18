@@ -3,7 +3,7 @@ package PracticePrograms.Stringbuilder;
 import java.util.ArrayList;
 import java.util.List;
 
-public class SumValuesInString {
+public class IntValuesInString {
     public static void main(String[] args) {
         String input = "aehb12bnh34ksd56";
 
