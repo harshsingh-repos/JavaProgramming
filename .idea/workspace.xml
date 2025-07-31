@@ -4,16 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a14991fd-6505-4aa2-bf47-e322eebd25c4" name="Changes" comment="Added NewPrograms Arrays and Classes">
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/FlightlessBirds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/ObjectDemo.java" afterDir="false" />
+    <list default="true" id="a14991fd-6505-4aa2-bf47-e322eebd25c4" name="Changes" comment="Added NewPrograms for inheritance">
+      <change afterPath="$PROJECT_DIR$/src/AbstractClass/AbstractMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClass/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClass/AnimalBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClass/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/StudentArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/StudentNameManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/ExceptionDemoMultiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/ExceptionDemoOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/ManualExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/ThrowsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/AnimalAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/AnimalBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/InterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/DogTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/PolyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utility/inputOne.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Bird.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +39,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,13 +67,31 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ObjectDemo">
-    <configuration name="FindInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.FindInArray" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Exceptions" />
+      <recent name="$PROJECT_DIR$/src/Utility" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Polymorphism" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StudentArrayListDemo">
+    <configuration name="ArrayLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ArrayLists" />
+      <module name="JavaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManualExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exceptions.ManualExceptions" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMaxInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.FindMaxInArray" />
+    <configuration name="StudentArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.StudentArrayListDemo" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inheritance.Main" />
+    <configuration name="StudentNameManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.StudentNameManagement" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Inheritance.*" />
+          <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,25 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inheritance.ObjectDemo" />
+    <configuration name="ThrowsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exceptions.ThrowsExample" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.StudentMain" />
-      <module name="JavaProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ObjectDemo" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.StudentMain" />
-        <item itemvalue="Application.FindInArray" />
-        <item itemvalue="Application.FindMaxInArray" />
+        <item itemvalue="Application.StudentArrayListDemo" />
+        <item itemvalue="Application.StudentNameManagement" />
+        <item itemvalue="Application.ArrayLists" />
+        <item itemvalue="Application.ThrowsExample" />
+        <item itemvalue="Application.ManualExceptions" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1750288411861</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added NewPrograms for inheritance">
+      <created>1751498064802</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751498064802</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,7 +225,8 @@
     <MESSAGE value="Added SessionOne" />
     <MESSAGE value="Added NewPrograms" />
     <MESSAGE value="Added NewPrograms Arrays and Classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added NewPrograms Arrays and Classes" />
+    <MESSAGE value="Added NewPrograms for inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added NewPrograms for inheritance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

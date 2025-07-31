@@ -15,6 +15,12 @@ public class Bird extends Animal{
         System.out.println(name + " bird can fly: " + fly);
     }
 
+    @Override
+    public void eat() {
+        super.eat();
+        System.out.println("Bird eats insects");
+    }
+
     public void displayInfo(){
         super.eat(); // super is used to call the method eat inside parent Animal
     }
